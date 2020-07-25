@@ -6,7 +6,6 @@ import { StatusBar } from 'react-native'
 
 import theme from './PaperTheme'
 import Home from './src/components/Home'
-import { View, Text } from 'react-native'
 
 const App: () => React$Node = () => {
   return (
